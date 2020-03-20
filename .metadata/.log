@@ -4171,3 +4171,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-20 11:16:27.283
 !MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2020-03-20 11:31:07.461
+!MESSAGE No repository found at https://dl.bintray.com/pmd/pmd-eclipse-plugin/.
+
+!ENTRY org.eclipse.ui 2 2 2020-03-20 13:13:46.004
+!MESSAGE Invalid preference category path: egovframework.dev.imp.confmngt.preferences.emptyconfpreperencepage (bundle: egovframework.rte.rdt, page: egovframework.rte.rdt.plugin.preferences.RdtPreferencePage)
